@@ -1,0 +1,4 @@
+name: zmk-keyboard-jaime-s-numpad
+build:
+  settings:
+    board_root: .
